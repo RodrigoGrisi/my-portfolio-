@@ -60,6 +60,7 @@ const Hero = () => {
               color="primary.contrastText"
               textAlign="center"
               variant="h3"
+              marginBottom={5}
             >
               Front end Developer
             </Typography>
@@ -70,7 +71,7 @@ const Hero = () => {
               justifyContent="center"
               alignItems="center"
               marginTop="10px"
-              spacing={3}
+              // spacing={3}
               margin={0}
             >
               <Grid
